@@ -1,0 +1,1842 @@
+{
+  "italy-sda": [
+    "Italy SDA",
+    "italy sda"
+  ],
+  "specialisedfreight-za": [
+    "Specialised Freight",
+    "specialised freight"
+  ],
+  "ensenda": [
+    "Ensenda",
+    "ensenda"
+  ],
+  "zalora-7-eleven": [
+    "Zalora 7-Eleven",
+    "zalora 7-eleven"
+  ],
+  "india-post-int": [
+    "India Post International",
+    "india post international"
+  ],
+  "bpost": [
+    "Bpost",
+    "bpost"
+  ],
+  "chronopost-portugal": [
+    "Chronopost Portugal",
+    "chronopost portugal"
+  ],
+  "ptt-posta": [
+    "PTT Posta",
+    "ptt posta"
+  ],
+  "fastway-za": [
+    "Fastway South Africa",
+    "fastway south africa"
+  ],
+  "spain-correos-es": [
+    "Correos de España",
+    "correos de españa"
+  ],
+  "saudi-post": [
+    "Saudi Post",
+    "saudi post"
+  ],
+  "dpd-ireland": [
+    "DPD Ireland",
+    "dpd ireland"
+  ],
+  "austrian-post-registered": [
+    "Austrian Post (Registered)",
+    "austrian post (registered)"
+  ],
+  "kerry-logistics": [
+    "Kerry Express Thailand",
+    "kerry express thailand"
+  ],
+  "posten-norge": [
+    "Posten Norge / Bring",
+    "posten norge / bring"
+  ],
+  "thailand-post": [
+    "Thailand Thai Post",
+    "thailand thai post"
+  ],
+  "hong-kong-post": [
+    "Hong Kong Post",
+    "hong kong post"
+  ],
+  "portugal-seur": [
+    "Portugal Seur",
+    "portugal seur"
+  ],
+  "international-seur": [
+    "International Seur",
+    "international seur"
+  ],
+  "yrc": [
+    "YRC",
+    "yrc"
+  ],
+  "canada-post": [
+    "Canada Post",
+    "canada post"
+  ],
+  "aramex": [
+    "Aramex",
+    "aramex"
+  ],
+  "gati-kwe": [
+    "Gati-KWE",
+    "gati-kwe"
+  ],
+  "dhl-global-mail-asia": [
+    "DHL eCommerce Asia",
+    "dhl ecommerce asia"
+  ],
+  "dhl-poland": [
+    "DHL Poland Domestic",
+    "dhl poland domestic"
+  ],
+  "asendia-usa": [
+    "Asendia USA",
+    "asendia usa"
+  ],
+  "envialia": [
+    "Envialia",
+    "envialia"
+  ],
+  "magyar-posta": [
+    "Magyar Posta",
+    "magyar posta"
+  ],
+  "nova-poshta": [
+    "Nova Poshta",
+    "nova poshta"
+  ],
+  "cambodia-post": [
+    "Cambodia Post",
+    "cambodia post"
+  ],
+  "xend": [
+    "Xend Express",
+    "xend express"
+  ],
+  "2go": [
+    "2GO",
+    "2go"
+  ],
+  "chronopost-france": [
+    "Chronopost France",
+    "chronopost france"
+  ],
+  "sgt-it": [
+    "SGT Corriere Espresso",
+    "sgt corriere espresso"
+  ],
+  "globegistics": [
+    "Globegistics Inc.",
+    "globegistics inc."
+  ],
+  "nightline": [
+    "Nightline",
+    "nightline"
+  ],
+  "tnt-au": [
+    "TNT Australia",
+    "tnt australia"
+  ],
+  "acscourier": [
+    "ACS Courier",
+    "acs courier"
+  ],
+  "uk-mail": [
+    "UK Mail",
+    "uk mail"
+  ],
+  "siodemka": [
+    "Siodemka",
+    "siodemka"
+  ],
+  "kn": [
+    "Kuehne + Nagel",
+    "kuehne + nagel"
+  ],
+  "safexpress": [
+    "Safexpress",
+    "safexpress"
+  ],
+  "skynet": [
+    "SkyNet Malaysia",
+    "skynet malaysia"
+  ],
+  "nipost": [
+    "NiPost",
+    "nipost"
+  ],
+  "oca-ar": [
+    "OCA Argentina",
+    "oca argentina"
+  ],
+  "aeroflash": [
+    "Mexico AeroFlash",
+    "mexico aeroflash"
+  ],
+  "dhl-global-mail": [
+    "DHL eCommerce US",
+    "dhl ecommerce us"
+  ],
+  "sapo": [
+    "South African Post Office",
+    "south african post office"
+  ],
+  "taqbin-hk": [
+    "TAQBIN Hong Kong",
+    "taqbin hong kong"
+  ],
+  "deltec-courier": [
+    "Deltec Courier",
+    "deltec courier"
+  ],
+  "mexico-senda-express": [
+    "Mexico Senda Express",
+    "mexico senda express"
+  ],
+  "mexico-redpack": [
+    "Mexico Redpack",
+    "mexico redpack"
+  ],
+  "japan-post": [
+    "Japan Post",
+    "japan post"
+  ],
+  "sagawa": [
+    "Sagawa",
+    "sagawa"
+  ],
+  "viettelpost": [
+    "ViettelPost",
+    "viettelpost"
+  ],
+  "postnl-3s": [
+    "PostNL International 3S",
+    "postnl international 3s"
+  ],
+  "tiki": [
+    "Tiki",
+    "tiki"
+  ],
+  "opek": [
+    "FedEx Poland Domestic",
+    "fedex poland domestic"
+  ],
+  "ceska-posta": [
+    "Česká Pošta",
+    "česká pošta"
+  ],
+  "geodis-calberson-fr": [
+    "GEODIS - Distribution & Express",
+    "geodis - distribution & express"
+  ],
+  "ppbyb": [
+    "PayPal Package",
+    "paypal package"
+  ],
+  "taqbin-jp": [
+    "Yamato Japan",
+    "yamato japan"
+  ],
+  "apc": [
+    "APC Postal Logistics",
+    "apc postal logistics"
+  ],
+  "ups-mi": [
+    "UPS Mail Innovations",
+    "ups mail innovations"
+  ],
+  "professional-couriers": [
+    "Professional Couriers",
+    "professional couriers"
+  ],
+  "gojavas": [
+    "GoJavas",
+    "gojavas"
+  ],
+  "cj-gls": [
+    "CJ GLS",
+    "cj gls"
+  ],
+  "ups-freight": [
+    "UPS Freight",
+    "ups freight"
+  ],
+  "singapore-speedpost": [
+    "Singapore Speedpost",
+    "singapore speedpost"
+  ],
+  "taiwan-post": [
+    "Taiwan Post",
+    "taiwan post"
+  ],
+  "nacex-spain": [
+    "NACEX Spain",
+    "nacex spain"
+  ],
+  "lasership": [
+    "LaserShip",
+    "lasership"
+  ],
+  "china-ems": [
+    "China EMS",
+    "china ems"
+  ],
+  "taqbin-sg": [
+    "TAQBIN Singapore",
+    "taqbin singapore"
+  ],
+  "bgpost": [
+    "Bulgarian Posts",
+    "bulgarian posts"
+  ],
+  "brazil-correios": [
+    "Brazil Correios",
+    "brazil correios"
+  ],
+  "fedex": [
+    "FedEx",
+    "fedex"
+  ],
+  "ukrposhta": [
+    "UkrPoshta",
+    "ukrposhta"
+  ],
+  "jam-express": [
+    "Jam Express",
+    "jam express"
+  ],
+  "estes": [
+    "Estes",
+    "estes"
+  ],
+  "dtdc": [
+    "DTDC India",
+    "dtdc india"
+  ],
+  "interlink-express": [
+    "DPD Local",
+    "dpd local"
+  ],
+  "austrian-post": [
+    "Austrian Post (Express)",
+    "austrian post (express)"
+  ],
+  "star-track": [
+    "StarTrack",
+    "startrack"
+  ],
+  "first-logistics": [
+    "First Logistics",
+    "first logistics"
+  ],
+  "postnord": [
+    "PostNord Logistics",
+    "postnord logistics"
+  ],
+  "belpost": [
+    "Belpost",
+    "belpost"
+  ],
+  "cyprus-post": [
+    "Cyprus Post",
+    "cyprus post"
+  ],
+  "spanish-seur": [
+    "Spanish Seur",
+    "spanish seur"
+  ],
+  "air21": [
+    "AIR21",
+    "air21"
+  ],
+  "lbcexpress": [
+    "LBC Express",
+    "lbc express"
+  ],
+  "vnpost": [
+    "Vietnam Post",
+    "vietnam post"
+  ],
+  "rl-carriers": [
+    "RL Carriers",
+    "rl carriers"
+  ],
+  "sf-express": [
+    "S.F. Express",
+    "s.f. express"
+  ],
+  "lietuvos-pastas": [
+    "Lietuvos Paštas",
+    "lietuvos paštas"
+  ],
+  "ec-firstclass": [
+    "EC-Firstclass",
+    "ec-firstclass"
+  ],
+  "an-post": [
+    "An Post",
+    "an post"
+  ],
+  "usps": [
+    "USPS",
+    "usps"
+  ],
+  "swiss-post": [
+    "Swiss Post",
+    "swiss post"
+  ],
+  "india-post": [
+    "India Post Domestic",
+    "india post domestic"
+  ],
+  "aupost-china": [
+    "AuPost China",
+    "aupost china"
+  ],
+  "danmark-post": [
+    "PostNord Denmark",
+    "postnord denmark"
+  ],
+  "gls-netherlands": [
+    "GLS Netherlands",
+    "gls netherlands"
+  ],
+  "dpd-uk": [
+    "DPD UK",
+    "dpd uk"
+  ],
+  "correo-argentino": [
+    "Correo Argentino",
+    "correo argentino"
+  ],
+  "hrvatska-posta": [
+    "Hrvatska Pošta",
+    "hrvatska pošta"
+  ],
+  "posta-romana": [
+    "Poșta Română",
+    "poșta română"
+  ],
+  "courierpost": [
+    "CourierPost",
+    "courierpost"
+  ],
+  "gdex": [
+    "GDEX",
+    "gdex"
+  ],
+  "singapore-post": [
+    "Singapore Post",
+    "singapore post"
+  ],
+  "tnt-fr": [
+    "TNT France",
+    "tnt france"
+  ],
+  "fastway-au": [
+    "Fastway Australia",
+    "fastway australia"
+  ],
+  "new-zealand-post": [
+    "New Zealand Post",
+    "new zealand post"
+  ],
+  "poste-italiane": [
+    "Poste Italiane",
+    "poste italiane"
+  ],
+  "hermes-de": [
+    "Hermes Germany",
+    "hermes germany"
+  ],
+  "wahana": [
+    "Wahana",
+    "wahana"
+  ],
+  "dynamic-logistics": [
+    "Dynamic Logistics",
+    "dynamic logistics"
+  ],
+  "taqbin-my": [
+    "TAQBIN Malaysia",
+    "taqbin malaysia"
+  ],
+  "dhl": [
+    "DHL Express",
+    "dhl express"
+  ],
+  "citylinkexpress": [
+    "City-Link Express",
+    "city-link express"
+  ],
+  "wedo": [
+    "WeDo Logistics",
+    "wedo logistics"
+  ],
+  "malaysia-post-posdaftar": [
+    "Malaysia Post - Registered",
+    "malaysia post - registered"
+  ],
+  "pos-indonesia": [
+    "Pos Indonesia Domestic",
+    "pos indonesia domestic"
+  ],
+  "pos-indonesia-int": [
+    "Pos Indonesia Int'l",
+    "pos indonesia int'l"
+  ],
+  "xdp-uk": [
+    "XDP Express",
+    "xdp express"
+  ],
+  "portugal-ctt": [
+    "Portugal CTT",
+    "portugal ctt"
+  ],
+  "hermes": [
+    "Hermesworld",
+    "hermesworld"
+  ],
+  "fastway-ireland": [
+    "Fastway Ireland",
+    "fastway ireland"
+  ],
+  "raf": [
+    "RAF Philippines",
+    "raf philippines"
+  ],
+  "yundaex": [
+    "Yunda Express",
+    "yunda express"
+  ],
+  "delhivery": [
+    "Delhivery",
+    "delhivery"
+  ],
+  "dpe-za": [
+    "DPE South Africa",
+    "dpe south africa"
+  ],
+  "equick-cn": [
+    "Equick China",
+    "equick china"
+  ],
+  "ecom-express": [
+    "Ecom Express",
+    "ecom express"
+  ],
+  "tnt-click": [
+    "TNT-Click Italy",
+    "tnt-click italy"
+  ],
+  "4px": [
+    "4PX",
+    "4px"
+  ],
+  "jcex": [
+    "JCEX",
+    "jcex"
+  ],
+  "post56": [
+    "Post56",
+    "post56"
+  ],
+  "dhl-es": [
+    "DHL Spain Domestic",
+    "dhl spain domestic"
+  ],
+  "transmission-nl": [
+    "TransMission",
+    "transmission"
+  ],
+  "la-poste-colissimo": [
+    "La Poste",
+    "la poste"
+  ],
+  "gls-italy": [
+    "GLS Italy",
+    "gls italy"
+  ],
+  "malaysia-post": [
+    "Malaysia Post EMS / Pos Laju",
+    "malaysia post ems / pos laju"
+  ],
+  "sto": [
+    "STO Express",
+    "sto express"
+  ],
+  "elta-courier": [
+    "ELTA Hellenic Post",
+    "elta hellenic post"
+  ],
+  "postnl-international": [
+    "PostNL International",
+    "postnl international"
+  ],
+  "toll-ipec": [
+    "Toll IPEC",
+    "toll ipec"
+  ],
+  "asendia-de": [
+    "Asendia Germany",
+    "asendia germany"
+  ],
+  "correosexpress": [
+    "Correos Express",
+    "correos express"
+  ],
+  "ecargo-asia": [
+    "Ecargo",
+    "ecargo"
+  ],
+  "fercam": [
+    "FERCAM Logistics & Transport",
+    "fercam logistics & transport"
+  ],
+  "dawnwing": [
+    "Dawn Wing",
+    "dawn wing"
+  ],
+  "jayonexpress": [
+    "Jayon Express (JEX)",
+    "jayon express (jex)"
+  ],
+  "apc-overnight": [
+    "APC Overnight",
+    "apc overnight"
+  ],
+  "bert-fr": [
+    "Bert Transport",
+    "bert transport"
+  ],
+  "homedirect-logistics": [
+    "Homedirect Logistics",
+    "homedirect logistics"
+  ],
+  "tuffnells": [
+    "Tuffnells Parcels Express",
+    "tuffnells parcels express"
+  ],
+  "ninjavan": [
+    "Ninja Van",
+    "ninja van"
+  ],
+  "airpak-express": [
+    "Airpak Express",
+    "airpak express"
+  ],
+  "imxmail": [
+    "IMX Mail",
+    "imx mail"
+  ],
+  "norsk-global": [
+    "Norsk Global",
+    "norsk global"
+  ],
+  "parcelpost-sg": [
+    "Parcel Post Singapore",
+    "parcel post singapore"
+  ],
+  "gofly": [
+    "GoFly",
+    "gofly"
+  ],
+  "empsexpress": [
+    "EMPS Express",
+    "emps express"
+  ],
+  "detrack": [
+    "Detrack",
+    "detrack"
+  ],
+  "old-dominion": [
+    "Old Dominion Freight Line",
+    "old dominion freight line"
+  ],
+  "airspeed": [
+    "Airspeed International Corporation",
+    "airspeed international corporation"
+  ],
+  "jne": [
+    "JNE",
+    "jne"
+  ],
+  "pandulogistics": [
+    "Pandu Logistics",
+    "pandu logistics"
+  ],
+  "mondialrelay": [
+    "Mondial Relay",
+    "mondial relay"
+  ],
+  "lion-parcel": [
+    "Lion Parcel",
+    "lion parcel"
+  ],
+  "ups": [
+    "UPS",
+    "ups"
+  ],
+  "australia-post": [
+    "Australia Post",
+    "australia post"
+  ],
+  "dhl-nl": [
+    "DHL Netherlands",
+    "dhl netherlands"
+  ],
+  "israel-post-domestic": [
+    "Israel Post Domestic",
+    "israel post domestic"
+  ],
+  "skynetworldwide": [
+    "SkyNet Worldwide Express",
+    "skynet worldwide express"
+  ],
+  "tnt": [
+    "TNT",
+    "tnt"
+  ],
+  "royal-mail": [
+    "Royal Mail",
+    "royal mail"
+  ],
+  "parcel-force": [
+    "Parcel Force",
+    "parcel force"
+  ],
+  "abf": [
+    "ABF Freight",
+    "abf freight"
+  ],
+  "directlink": [
+    "Direct Link",
+    "direct link"
+  ],
+  "dhlparcel-nl": [
+    "DHL Parcel NL",
+    "dhl parcel nl"
+  ],
+  "greyhound": [
+    "Greyhound",
+    "greyhound"
+  ],
+  "dhl-germany": [
+    "Deutsche Post DHL",
+    "deutsche post dhl"
+  ],
+  "gls": [
+    "GLS",
+    "gls"
+  ],
+  "i-parcel": [
+    "i-parcel",
+    "i-parcel"
+  ],
+  "colissimo": [
+    "Colissimo",
+    "colissimo"
+  ],
+  "poczta-polska": [
+    "Poczta Polska",
+    "poczta polska"
+  ],
+  "bpost-international": [
+    "Bpost international",
+    "bpost international"
+  ],
+  "taxydromiki": [
+    "Geniki Taxydromiki",
+    "geniki taxydromiki"
+  ],
+  "skynetworldwide-uk": [
+    "Skynet Worldwide Express UK",
+    "skynet worldwide express uk"
+  ],
+  "rpxonline": [
+    "RPX Online",
+    "rpx online"
+  ],
+  "17postservice": [
+    "17 Post Service",
+    "17 post service"
+  ],
+  "ghn": [
+    "Giao hàng nhanh",
+    "giao hàng nhanh"
+  ],
+  "israel-post": [
+    "Israel Post",
+    "israel post"
+  ],
+  "yodel": [
+    "Yodel Domestic",
+    "yodel domestic"
+  ],
+  "trakpak": [
+    "TrakPak",
+    "trakpak"
+  ],
+  "redur-es": [
+    "Redur Spain",
+    "redur spain"
+  ],
+  "bluedart": [
+    "Bluedart",
+    "bluedart"
+  ],
+  "emirates-post": [
+    "Emirates Post",
+    "emirates post"
+  ],
+  "szdpex": [
+    "DPEX China",
+    "dpex china"
+  ],
+  "qxpress": [
+    "Qxpress",
+    "qxpress"
+  ],
+  "courier-plus": [
+    "Courier Plus",
+    "courier plus"
+  ],
+  "800bestex": [
+    "Best Express",
+    "best express"
+  ],
+  "courierit": [
+    "Courier IT",
+    "courier it"
+  ],
+  "dhl-deliverit": [
+    "DHL 2-Mann-Handling",
+    "dhl 2-mann-handling"
+  ],
+  "dbschenker-se": [
+    "DB Schenker",
+    "db schenker"
+  ],
+  "xpressbees": [
+    "XpressBees",
+    "xpressbees"
+  ],
+  "dotzot": [
+    "Dotzot",
+    "dotzot"
+  ],
+  "korea-post": [
+    "Korea Post EMS",
+    "korea post ems"
+  ],
+  "yodel-international": [
+    "Yodel International",
+    "yodel international"
+  ],
+  "mypostonline": [
+    "Mypostonline",
+    "mypostonline"
+  ],
+  "panther": [
+    "Panther",
+    "panther"
+  ],
+  "collectplus": [
+    "Collect+",
+    "collect+"
+  ],
+  "tntpost-it": [
+    "Nexive (TNT Post Italy)",
+    "nexive (tnt post italy)"
+  ],
+  "boxc": [
+    "BoxC",
+    "boxc"
+  ],
+  "deutsch-post": [
+    "Deutsche Post Mail",
+    "deutsche post mail"
+  ],
+  "first-flight": [
+    "First Flight Couriers",
+    "first flight couriers"
+  ],
+  "asm": [
+    "ASM",
+    "asm"
+  ],
+  "brt-it": [
+    "BRT Bartolini",
+    "brt bartolini"
+  ],
+  "colis-prive": [
+    "Colis Privé",
+    "colis privé"
+  ],
+  "estafeta": [
+    "Estafeta",
+    "estafeta"
+  ],
+  "dhl-benelux": [
+    "DHL Benelux",
+    "dhl benelux"
+  ],
+  "mrw-spain": [
+    "MRW",
+    "mrw"
+  ],
+  "toll-priority": [
+    "Toll Priority",
+    "toll priority"
+  ],
+  "tnt-it": [
+    "TNT Italy",
+    "tnt italy"
+  ],
+  "tnt-uk": [
+    "TNT UK",
+    "tnt uk"
+  ],
+  "arrowxl": [
+    "Arrow XL",
+    "arrow xl"
+  ],
+  "tgx": [
+    "Kerry Express Hong Kong",
+    "kerry express hong kong"
+  ],
+  "ontrac": [
+    "OnTrac",
+    "ontrac"
+  ],
+  "star-track-express": [
+    "Star Track Express",
+    "star track express"
+  ],
+  "fedex-uk": [
+    "FedEx UK",
+    "fedex uk"
+  ],
+  "exapaq": [
+    "DPD France",
+    "dpd france"
+  ],
+  "wishpost": [
+    "WishPost",
+    "wishpost"
+  ],
+  "sic-teliway": [
+    "Teliway SIC Express",
+    "teliway sic express"
+  ],
+  "packlink": [
+    "Packlink",
+    "packlink"
+  ],
+  "sweden-posten": [
+    "PostNord Sweden",
+    "postnord sweden"
+  ],
+  "canpar": [
+    "Canpar Courier",
+    "canpar courier"
+  ],
+  "myhermes-uk": [
+    "myHermes UK",
+    "myhermes uk"
+  ],
+  "ramgroup-za": [
+    "RAM",
+    "ram"
+  ],
+  "dhl-pieceid": [
+    "DHL Express (Piece ID)",
+    "dhl express (piece id)"
+  ],
+  "speedexcourier": [
+    "Speedex Courier",
+    "speedex courier"
+  ],
+  "speedcouriers-gr": [
+    "Speed Couriers",
+    "speed couriers"
+  ],
+  "dpd": [
+    "DPD",
+    "dpd"
+  ],
+  "dmm-network": [
+    "DMM Network",
+    "dmm network"
+  ],
+  "vnpost-ems": [
+    "Vietnam Post EMS",
+    "vietnam post ems"
+  ],
+  "dsv": [
+    "DSV",
+    "dsv"
+  ],
+  "sfb2c": [
+    "S.F International",
+    "s.f international"
+  ],
+  "russian-post": [
+    "Russian Post",
+    "russian post"
+  ],
+  "flytexpress": [
+    "Flyt Express",
+    "flyt express"
+  ],
+  "abxexpress-my": [
+    "ABX Express",
+    "abx express"
+  ],
+  "kangaroo-my": [
+    "Kangaroo Worldwide Express",
+    "kangaroo worldwide express"
+  ],
+  "yanwen": [
+    "Yanwen",
+    "yanwen"
+  ],
+  "posti": [
+    "Posti",
+    "posti"
+  ],
+  "cnexps": [
+    "CNE Express",
+    "cne express"
+  ],
+  "zjs-express": [
+    "ZJS International",
+    "zjs international"
+  ],
+  "asendia-uk": [
+    "Asendia UK",
+    "asendia uk"
+  ],
+  "cbl-logistica": [
+    "CBL Logistics",
+    "cbl logistics"
+  ],
+  "correos-chile": [
+    "Correos Chile",
+    "correos chile"
+  ],
+  "dpd-poland": [
+    "DPD Poland",
+    "dpd poland"
+  ],
+  "newgistics": [
+    "Newgistics",
+    "newgistics"
+  ],
+  "easy-mail": [
+    "Easy Mail",
+    "easy mail"
+  ],
+  "fastrak-th": [
+    "Fastrak Services",
+    "fastrak services"
+  ],
+  "fastway-nz": [
+    "Fastway New Zealand",
+    "fastway new zealand"
+  ],
+  "nanjingwoyuan": [
+    "Nanjing Woyuan",
+    "nanjing woyuan"
+  ],
+  "lwe-hk": [
+    "Logistic Worldwide Express",
+    "logistic worldwide express"
+  ],
+  "yunexpress": [
+    "Yun Express",
+    "yun express"
+  ],
+  "ubi-logistics": [
+    "UBI Smart Parcel",
+    "ubi smart parcel"
+  ],
+  "purolator": [
+    "Purolator",
+    "purolator"
+  ],
+  "bondscouriers": [
+    "Bonds Couriers",
+    "bonds couriers"
+  ],
+  "nationwide-my": [
+    "Nationwide Express",
+    "nationwide express"
+  ],
+  "jet-ship": [
+    "Jet-Ship Worldwide",
+    "jet-ship worldwide"
+  ],
+  "rpx": [
+    "RPX Indonesia",
+    "rpx indonesia"
+  ],
+  "nhans-solutions": [
+    "Nhans Solutions",
+    "nhans solutions"
+  ],
+  "cuckooexpress": [
+    "Cuckoo Express",
+    "cuckoo express"
+  ],
+  "bh-posta": [
+    "JP BH Pošta",
+    "jp bh pošta"
+  ],
+  "rzyexpress": [
+    "RZY Express",
+    "rzy express"
+  ],
+  "rrdonnelley": [
+    "RRD International Logistics U.S.A",
+    "rrd international logistics u.s.a"
+  ],
+  "post-serbia": [
+    "Post Serbia",
+    "post serbia"
+  ],
+  "costmeticsnow": [
+    "Cosmetics Now",
+    "cosmetics now"
+  ],
+  "correos-de-mexico": [
+    "Correos de Mexico",
+    "correos de mexico"
+  ],
+  "fedex-freight": [
+    "FedEx Freight",
+    "fedex freight"
+  ],
+  "quantium": [
+    "Quantium",
+    "quantium"
+  ],
+  "tnt-reference": [
+    "TNT Reference",
+    "tnt reference"
+  ],
+  "tnt-uk-reference": [
+    "TNT UK Reference",
+    "tnt uk reference"
+  ],
+  "xdp-uk-reference": [
+    "XDP Express Reference",
+    "xdp express reference"
+  ],
+  "4-72": [
+    "4-72 Entregando",
+    "4-72 entregando"
+  ],
+  "dpex": [
+    "DPEX",
+    "dpex"
+  ],
+  "dpd-de": [
+    "DPD Germany",
+    "dpd germany"
+  ],
+  "oneworldexpress": [
+    "One World Express",
+    "one world express"
+  ],
+  "delcart-in": [
+    "Delcart",
+    "delcart"
+  ],
+  "sekologistics": [
+    "SEKO Logistics",
+    "seko logistics"
+  ],
+  "kerryttc-vn": [
+    "Kerry Express (Vietnam) Co Ltd",
+    "kerry express (vietnam) co ltd"
+  ],
+  "postur-is": [
+    "Iceland Post",
+    "iceland post"
+  ],
+  "ninjavan-my": [
+    "Ninja Van Malaysia",
+    "ninja van malaysia"
+  ],
+  "hh-exp": [
+    "Hua Han Logistics",
+    "hua han logistics"
+  ],
+  "srekorea": [
+    "SRE Korea",
+    "sre korea"
+  ],
+  "parcelled-in": [
+    "Parcelled.in",
+    "parcelled.in"
+  ],
+  "couriers-please": [
+    "Couriers Please",
+    "couriers please"
+  ],
+  "adsone": [
+    "ADSOne",
+    "adsone"
+  ],
+  "smsa-express": [
+    "SMSA Express",
+    "smsa express"
+  ],
+  "inpost-paczkomaty": [
+    "InPost Paczkomaty",
+    "inpost paczkomaty"
+  ],
+  "omniparcel": [
+    "Omni Parcel",
+    "omni parcel"
+  ],
+  "nuvoex": [
+    "NuvoEx",
+    "nuvoex"
+  ],
+  "dhl-hk": [
+    "DHL Hong Kong",
+    "dhl hong kong"
+  ],
+  "kgmhub": [
+    "KGM Hub",
+    "kgm hub"
+  ],
+  "con-way": [
+    "Con-way Freight",
+    "con-way freight"
+  ],
+  "echo": [
+    "Echo",
+    "echo"
+  ],
+  "matkahuolto": [
+    "Matkahuolto",
+    "matkahuolto"
+  ],
+  "china-post": [
+    "China Post",
+    "china post"
+  ],
+  "postnl": [
+    "PostNL Domestic",
+    "postnl domestic"
+  ],
+  "lao-post": [
+    "Lao Post",
+    "lao post"
+  ],
+  "raben-group": [
+    "Raben Group",
+    "raben group"
+  ],
+  "360lion": [
+    "360 Lion Express",
+    "360 lion express"
+  ],
+  "pfcexpress": [
+    "PFC Express",
+    "pfc express"
+  ],
+  "matdespatch": [
+    "Matdespatch",
+    "matdespatch"
+  ],
+  "rocketparcel": [
+    "Rocket Parcel International",
+    "rocket parcel international"
+  ],
+  "raiderex": [
+    "RaidereX",
+    "raiderex"
+  ],
+  "cpacket": [
+    "cPacket",
+    "cpacket"
+  ],
+  "yto": [
+    "YTO Express",
+    "yto express"
+  ],
+  "adicional": [
+    "Adicional Logistics",
+    "adicional logistics"
+  ],
+  "sfcservice": [
+    "SFC Service",
+    "sfc service"
+  ],
+  "directfreight-au": [
+    "Direct Freight Express",
+    "direct freight express"
+  ],
+  "skypostal": [
+    "Asendia HK – Premium Service (LATAM)",
+    "asendia hk – premium service (latam)"
+  ],
+  "xq-express": [
+    "XQ Express",
+    "xq express"
+  ],
+  "dpe-express": [
+    "DPE Express",
+    "dpe express"
+  ],
+  "idexpress": [
+    "IDEX",
+    "idex"
+  ],
+  "buylogic": [
+    "Buylogic",
+    "buylogic"
+  ],
+  "courex": [
+    "Courex",
+    "courex"
+  ],
+  "scudex-express": [
+    "Scudex Express",
+    "scudex express"
+  ],
+  "b2ceurope": [
+    "B2C Europe",
+    "b2c europe"
+  ],
+  "expeditors": [
+    "Expeditors",
+    "expeditors"
+  ],
+  "thecourierguy": [
+    "The Courier Guy",
+    "the courier guy"
+  ],
+  "dtdc-au": [
+    "DTDC Australia",
+    "dtdc australia"
+  ],
+  "apc-overnight-reference": [
+    "APC Overnight Reference",
+    "apc overnight reference"
+  ],
+  "ninjavan-id": [
+    "Ninja Van Indonesia",
+    "ninja van indonesia"
+  ],
+  "imexglobalsolutions": [
+    "IMEX Global Solutions",
+    "imex global solutions"
+  ],
+  "alphafast": [
+    "alphaFAST",
+    "alphafast"
+  ],
+  "axl": [
+    "AXL Express & Logistics",
+    "axl express & logistics"
+  ],
+  "landmark-global": [
+    "Landmark Global",
+    "landmark global"
+  ],
+  "roadbull": [
+    "Roadbull Logistics",
+    "roadbull logistics"
+  ],
+  "geodis-espace": [
+    "Geodis E-space",
+    "geodis e-space"
+  ],
+  "simplypost": [
+    "SimplyPost",
+    "simplypost"
+  ],
+  "dhl-global-forwarding": [
+    "DHL Global Forwarding",
+    "dhl global forwarding"
+  ],
+  "interlink-express-reference": [
+    "DPD Local reference",
+    "dpd local reference"
+  ],
+  "jersey-post": [
+    "Jersey Post",
+    "jersey post"
+  ],
+  "directlog": [
+    "Directlog",
+    "directlog"
+  ],
+  "jocom": [
+    "Jocom",
+    "jocom"
+  ],
+  "sendle": [
+    "Sendle",
+    "sendle"
+  ],
+  "ajexpress": [
+    "a j express",
+    "a j express"
+  ],
+  "ekart": [
+    "Ekart",
+    "ekart"
+  ],
+  "hunter-express": [
+    "Hunter Express",
+    "hunter express"
+  ],
+  "xl-express": [
+    "XL Express",
+    "xl express"
+  ],
+  "yakit": [
+    "Yakit",
+    "yakit"
+  ],
+  "zyllem": [
+    "Zyllem",
+    "zyllem"
+  ],
+  "dhl-active-tracing": [
+    "DHL Active Tracing",
+    "dhl active tracing"
+  ],
+  "eparcel-kr": [
+    "eParcel Korea",
+    "eparcel korea"
+  ],
+  "dex-i": [
+    "DEX-I",
+    "dex-i"
+  ],
+  "brt-it-parcelid": [
+    "BRT Bartolini(Parcel ID)",
+    "brt bartolini(parcel id)"
+  ],
+  "holisol": [
+    "Holisol",
+    "holisol"
+  ],
+  "sendit": [
+    "Sendit",
+    "sendit"
+  ],
+  "mailamericas": [
+    "MailAmericas",
+    "mailamericas"
+  ],
+  "correos-de-costa-rica": [
+    "Correos de Costa Rica",
+    "correos de costa rica"
+  ],
+  "copa-courier": [
+    "Copa Airlines Courier",
+    "copa airlines courier"
+  ],
+  "mara-xpress": [
+    "Mara Xpress",
+    "mara xpress"
+  ],
+  "mikropakket": [
+    "Mikropakket",
+    "mikropakket"
+  ],
+  "wndirect": [
+    "wnDirect",
+    "wndirect"
+  ],
+  "kiala": [
+    "Kiala",
+    "kiala"
+  ],
+  "ruston": [
+    "Ruston",
+    "ruston"
+  ],
+  "wanbexpress": [
+    "WanbExpress",
+    "wanbexpress"
+  ],
+  "cj-korea-thai": [
+    "CJ Korea Express",
+    "cj korea express"
+  ],
+  "wise-express": [
+    "Wise Express",
+    "wise express"
+  ],
+  "rpd2man": [
+    "RPD2man Deliveries",
+    "rpd2man deliveries"
+  ],
+  "acommerce": [
+    "aCommerce",
+    "acommerce"
+  ],
+  "panther-reference": [
+    "Panther Reference",
+    "panther reference"
+  ],
+  "logwin-logistics": [
+    "Logwin Logistics",
+    "logwin logistics"
+  ],
+  "wiseloads": [
+    "Wiseloads",
+    "wiseloads"
+  ],
+  "rincos": [
+    "Rincos",
+    "rincos"
+  ],
+  "alliedexpress": [
+    "Allied Express",
+    "allied express"
+  ],
+  "hermes-it": [
+    "Hermes Italy",
+    "hermes italy"
+  ],
+  "asendia-hk": [
+    "Asendia HK",
+    "asendia hk"
+  ],
+  "ninjavan-thai": [
+    "Ninja Van Thailand",
+    "ninja van thailand"
+  ],
+  "eurodis": [
+    "Eurodis",
+    "eurodis"
+  ],
+  "whistl": [
+    "Whistl",
+    "whistl"
+  ],
+  "abcustom": [
+    "AB Custom Group",
+    "ab custom group"
+  ],
+  "tipsa": [
+    "TIPSA",
+    "tipsa"
+  ],
+  "ninjavan-philippines": [
+    "Ninja Van Philippines",
+    "ninja van philippines"
+  ],
+  "zto-express": [
+    "ZTO Express",
+    "zto express"
+  ],
+  "nim-express": [
+    "Nim Express",
+    "nim express"
+  ],
+  "alljoy": [
+    "ALLJOY SUPPLY CHAIN CO.",
+    "alljoy supply chain co."
+  ],
+  "doora": [
+    "Doora Logistics",
+    "doora logistics"
+  ],
+  "dynalogic": [
+    "Dynalogic Benelux BV",
+    "dynalogic benelux bv"
+  ],
+  "collivery": [
+    "MDS Collivery Pty (Ltd)",
+    "mds collivery pty (ltd)"
+  ],
+  "gsi-express": [
+    "GSI EXPRESS",
+    "gsi express"
+  ],
+  "rcl": [
+    "Red Carpet Logistics",
+    "red carpet logistics"
+  ],
+  "mxe": [
+    "MXE Express",
+    "mxe express"
+  ],
+  "birdsystem": [
+    "BirdSystem",
+    "birdsystem"
+  ],
+  "paquetexpress": [
+    "Paquetexpress",
+    "paquetexpress"
+  ],
+  "line": [
+    "Line Clear Express & Logistics Sdn Bhd",
+    "line clear express & logistics sdn bhd"
+  ],
+  "efs": [
+    "EFS (E-commerce Fulfillment Service)",
+    "efs (e-commerce fulfillment service)"
+  ],
+  "instant": [
+    "INSTANT (Tiong Nam Ebiz Express Sdn Bhd)",
+    "instant (tiong nam ebiz express sdn bhd)"
+  ],
+  "kpost": [
+    "Korea Post",
+    "korea post"
+  ],
+  "collectco": [
+    "CollectCo",
+    "collectco"
+  ],
+  "ddexpress": [
+    "DD Express Courier",
+    "dd express courier"
+  ],
+  "smooth": [
+    "Smooth Couriers",
+    "smooth couriers"
+  ],
+  "panther-order-number": [
+    "Panther Order Number",
+    "panther order number"
+  ],
+  "sailpost": [
+    "SAILPOST",
+    "sailpost"
+  ],
+  "tcs": [
+    "TCS",
+    "tcs"
+  ],
+  "ezship": [
+    "EZship",
+    "ezship"
+  ],
+  "nova-poshtaint": [
+    "Nova Poshta (International)",
+    "nova poshta (international)"
+  ],
+  "skynetworldwide-uae": [
+    "SkyNet Worldwide Express UAE",
+    "skynet worldwide express uae"
+  ],
+  "demandship": [
+    "DemandShip",
+    "demandship"
+  ],
+  "pickup": [
+    "Pickupp",
+    "pickupp"
+  ],
+  "mudita": [
+    "MUDITA",
+    "mudita"
+  ],
+  "mainfreight": [
+    "Mainfreight",
+    "mainfreight"
+  ],
+  "aprisaexpress": [
+    "Aprisa Express",
+    "aprisa express"
+  ],
+  "shreetirupati": [
+    "SHREE TIRUPATI COURIER SERVICES PVT. LTD.",
+    "shree tirupati courier services pvt. ltd."
+  ],
+  "omniva": [
+    "Omniva",
+    "omniva"
+  ],
+  "acsworldwide": [
+    "ACS Worldwide Express",
+    "acs worldwide express"
+  ],
+  "janco": [
+    "Janco Ecommerce",
+    "janco ecommerce"
+  ],
+  "dylt": [
+    "Daylight Transport",
+    "daylight transport"
+  ],
+  "capital": [
+    "Capital Transport",
+    "capital transport"
+  ],
+  "uds": [
+    "United Delivery Service",
+    "united delivery service"
+  ],
+  "zepto-express": [
+    "ZeptoExpress",
+    "zeptoexpress"
+  ],
+  "skybox": [
+    "SKYBOX",
+    "skybox"
+  ],
+  "jinsung": [
+    "JINSUNG TRADING",
+    "jinsung trading"
+  ],
+  "amazon-fba-us": [
+    "Amazon FBA USA",
+    "amazon fba usa"
+  ],
+  "saia-freight": [
+    "Saia LTL Freight",
+    "saia ltl freight"
+  ],
+  "star-track-courier": [
+    "Star Track Courier",
+    "star track courier"
+  ],
+  "dpd-ro": [
+    "DPD Romania",
+    "dpd romania"
+  ],
+  "sky-postal": [
+    "SkyPostal",
+    "skypostal"
+  ],
+  "wepost": [
+    "WePost Logistics",
+    "wepost logistics"
+  ],
+  "palexpress": [
+    "PAL Express Limited",
+    "pal express limited"
+  ],
+  "chitchats": [
+    "Chit Chats",
+    "chit chats"
+  ],
+  "aduiepyle": [
+    "A Duie Pyle",
+    "a duie pyle"
+  ],
+  "pilot-freight": [
+    "Pilot Freight Services",
+    "pilot freight services"
+  ],
+  "ecms": [
+    "ECMS International Logistics Co.",
+    "ecms international logistics co."
+  ],
+  "jx": [
+    "JX",
+    "jx"
+  ],
+  "bestwayparcel": [
+    "Best Way Parcel",
+    "best way parcel"
+  ],
+  "zinc": [
+    "Zinc",
+    "zinc"
+  ],
+  "etotal": [
+    "eTotal Solution Limited",
+    "etotal solution limited"
+  ],
+  "xpost": [
+    "Xpost.ph",
+    "xpost.ph"
+  ],
+  "lonestar": [
+    "Lone Star Overnight",
+    "lone star overnight"
+  ],
+  "m-xpress": [
+    "M Xpress Sdn Bhd",
+    "m xpress sdn bhd"
+  ],
+  "gls-cz": [
+    "GLS Czech Republic",
+    "gls czech republic"
+  ],
+  "cj-malaysia": [
+    "CJ Century",
+    "cj century"
+  ],
+  "bjshomedelivery": [
+    "BJS Distribution",
+    "bjs distribution"
+  ],
+  "bneed": [
+    "Bneed",
+    "bneed"
+  ],
+  "cj-malaysia-international": [
+    "CJ Century (International)",
+    "cj century (international)"
+  ],
+  "dtdc-express": [
+    "DTDC Express Global PTE LTD",
+    "dtdc express global pte ltd"
+  ],
+  "deliveryontime": [
+    "DELIVERYONTIME LOGISTICS PVT LTD",
+    "deliveryontime logistics pvt ltd"
+  ],
+  "k1-express": [
+    "K1 Express",
+    "k1 express"
+  ],
+  "alfatrex": [
+    "AlfaTrex",
+    "alfatrex"
+  ],
+  "parcelpoint": [
+    "ParcelPoint Pty Ltd",
+    "parcelpoint pty ltd"
+  ],
+  "ep-box": [
+    "EP-Box",
+    "ep-box"
+  ],
+  "pickupp-sgp": [
+    "PICK UPP",
+    "pick upp"
+  ],
+  "pickupp-mys": [
+    "PICK UPP",
+    "pick upp"
+  ],
+  "dpd-ru": [
+    "DPD Russia",
+    "dpd russia"
+  ],
+  "j-net": [
+    "J-Net",
+    "j-net"
+  ],
+  "trans-kargo": [
+    "Trans Kargo Internasional",
+    "trans kargo internasional"
+  ]
+}
