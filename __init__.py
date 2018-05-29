@@ -108,32 +108,40 @@ class TrackParcelSkill(MycroftSkill):
         def addTrackingDetails(courierService, trackingNumber):
             self.speak("Searching for your package, Please wait")
             resultdetail = api.trackings.post(tracking=dict(slug=courierService, tracking_number=trackingNumber, title="Title"))
-            filterTrackingDetails(resultdetail, courierService, trackingNumber)
-        
-        def filterTrackingDetails(cobject, courierService, trackingNumber):
-            tID = cobject["tracking"]["id"]
-            tNumber = cobject["tracking"]["tracking_number"]
-            tCdate =  cobject["tracking"]["created_at"]
-            tUdate =  cobject["tracking"]["updated_at"]
-            tSlug = cobject["tracking"]["slug"]
-            tOrigin =  cobject["tracking"]["origin_country_iso3"]
-            tDest =  cobject["tracking"]["destination_country_iso3"]
-            tTag = cobject["tracking"]["tag"]
-            resultMsg = "Your package with tracking number {0} created on date {1} updated on {2} with delivery service {3} from country of origin {4} to destination country {5} is currently {6}".format(tNumber, tCdate, tUdate, tSlug, tOrigin, tDest, tTag)
+            filterTrackingCreateDetail(resultdetail, courierService, trackingNumber)
+            
+        def getTrackingDetails(courierService, trackingNumber):
+            trackedParcelDetails = api.trackings.get(courierService, trackingNumber)
+            self.enclosure.ws.emit(Message("trackingObject", {'desktop': {'data': str(trackedParcelDetails)}}))
+            filterTrackedDetail(trackedParcelDetails, courierService, trackingNumber)
+            
+        def filterTrackingCreateDetail(cobject, courierService, trackingNumber):
+            tcID = cobject["tracking"]["id"]
+            tcNumber = cobject["tracking"]["tracking_number"]
+            tcCdate =  cobject["tracking"]["created_at"]
+            tcUdate =  cobject["tracking"]["updated_at"]
+            tcSlug = cobject["tracking"]["slug"]
+            tcOrigin =  cobject["tracking"]["origin_country_iso3"]
+            tcDest =  cobject["tracking"]["destination_country_iso3"]
+            tcTag = cobject["tracking"]["tag"]
+            resultMsg = "Your package with tracking number {0} created on date {1} updated on {2} with delivery service {3} from country of origin {4} to destination country {5} is currently {6}".format(tcNumber, tcCdate, tcUdate, tcSlug, tcOrigin, tcDest, tcTag)
             self.speak(resultMsg)
-            self.enclosure.ws.emit(Message("trackingObject", {'desktop': {'data': cobject}}))
+            getTrackingDetails(courierService, trackingNumber)
+        
+        def filterTrackedDetail(cobject, courierService, trackingNumber):
+            LOGGER.info(cobject)
             removeTrackingDetails(courierService, trackingNumber)
-
+                
         def removeTrackingDetails(courierService, trackingNumber):
             r = api.trackings.delete(courierService, trackingNumber)
 
         utterance = message.data.get('utterance').lower()
-        splitUtterance = utterance.split()
+        utter = utterance.replace("-", "")
+        splitUtterance = utter.split()
         convertedList = []
         for idx, word in enumerate(splitUtterance):
             try:
-                LOGGER.info('Split' + word)
-                convertedList.append(w2n.word_to_num(word))
+                convertedList.append(str(w2n.word_to_num(word)))
             except:
                 convertedList.append(word)
 
