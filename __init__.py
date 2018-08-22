@@ -112,7 +112,7 @@ class TrackParcelSkill(MycroftSkill):
             
         def getTrackingDetails(courierService, trackingNumber):
             trackedParcelDetails = api.trackings.get(courierService, trackingNumber)
-            self.enclosure.ws.emit(Message("trackingObject", {'desktop': {'data': str(trackedParcelDetails)}}))
+            self.enclosure.bus.emit(Message("trackingObject", {'desktop': {'data': str(trackedParcelDetails)}}))
             filterTrackedDetail(trackedParcelDetails, courierService, trackingNumber)
             
         def filterTrackingCreateDetail(cobject, courierService, trackingNumber):
